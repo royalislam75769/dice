@@ -1,0 +1,30 @@
+.container{
+display: flex;
+justify-content: center;
+gap: 50px;
+
+}
+.player{
+  height: 400px;
+  width: 400px;
+  text-align: center;
+  border-radius: 5%;
+}
+.left{
+  background-color: aquamarine;
+}
+.right{
+  background-color: yellow;
+}
+h1{
+  text-align: center;
+}
+h2{
+  color:brown
+}
+.win{
+  color : red;
+}
+.body{
+  background-color: azure;
+}
